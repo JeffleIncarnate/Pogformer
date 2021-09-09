@@ -1,7 +1,6 @@
 ﻿// Modules
 using UnityEngine;
 
-// FUCKING KILL ME
 // Unity Class
 public class PlayerMovement : MonoBehaviour 
 {
