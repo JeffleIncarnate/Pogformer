@@ -1,4 +1,7 @@
-﻿using UnityEngine;
+/* 
+THIS IS BRAKCEYS CHARACTER CONTROLLER
+*/
+using UnityEngine;
 using UnityEngine.Events;
 
 public class CharacterController2D : MonoBehaviour
