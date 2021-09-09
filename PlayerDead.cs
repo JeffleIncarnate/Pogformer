@@ -1,7 +1,6 @@
 ﻿// Modules
 using UnityEngine;
 
-// I wanna fucking die
 // Unity Class
 public class PlayerDead : MonoBehaviour
 {
