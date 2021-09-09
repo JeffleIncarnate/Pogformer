@@ -1,7 +1,6 @@
 ﻿// Modules
 using UnityEngine;
 
-// IF YOU SEE THIS IS WANT YOU TO KNOW YOU ARE A PIECE OF SHIT
 // Unity Class
 public class Wepon : MonoBehaviour
 {
@@ -31,8 +30,3 @@ public class Wepon : MonoBehaviour
         Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
     }
 }
-
-
-
-
-// THIS CODe IS ACTUAL SHIT BRUH FUCK
